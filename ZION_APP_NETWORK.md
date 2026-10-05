@@ -1,21 +1,17 @@
-# 🌐 Zion App Network — Interlinks (Batch 85: Data Quality & Customer Success AI)
+# 🌐 Zion AI App Network
 
-This app is part of the free **Zion AI App Network** — 830+ interlinked AI apps, all free and online.
+This app is part of the **Zion AI App Network** — 850+ interlinked AI apps by Zion Tech Group.
 
-- 🗂️ Master directory: https://ziontechgroup.com/zion-app-network/ · GitHub: https://github.com/Zion-support/zion-app-network
-- 🚀 Batch 85 showcase: https://ziontechgroup.com/zion-app-network/app-network-batch85-oct05.html
-- 🧭 Free AI Discovery: https://ziontechgroup.com/discovery/
-- 🏠 Homepage: https://ziontechgroup.com
+## 🔗 Network links
+- Network hub: https://ziontechgroup.com/zion-app-network/
+- Latest updates: https://github.com/Zion-support/zion-app-network/blob/main/APP_NETWORK_LATEST.md
+- **Free Discovery (find your perfect apps in 2 min, always free):** https://ziontechgroup.com/discovery/
 
-## Batch 85 sibling apps
-- [Churn Risk Radar](https://ziontechgroup.com/churn-risk-radar/)
-- [Customer Health Scoreboard](https://ziontechgroup.com/customer-health-scoreboard/)
-- [Data Quality Watchdog](https://ziontechgroup.com/data-quality-watchdog/)
-- [Data Drift Detector](https://ziontechgroup.com/data-drift-detector/)
-- [Data Pipeline Monitor](https://ziontechgroup.com/data-pipeline-monitor/)
-- [ETL Observability](https://ziontechgroup.com/etl-observability/)
-- [Customer 360 Builder](https://ziontechgroup.com/customer-360-builder/)
-- [NPS Analyzer AI](https://ziontechgroup.com/nps-analyzer-ai/)
+## 🛠️ Batch 90 — Data Quality & Customer Experience AI
+- [Data Quality Watchdog](https://github.com/Zion-support/data-quality-watchdog) — https://ziontechgroup.com/data-quality-watchdog/
+- Customer Health Scoreboard (this repo)
+- [ETL Copilot AI](https://github.com/Zion-support/etl-copilot-ai) — https://ziontechgroup.com/etl-copilot-ai/
+- [Mock API Generator](https://github.com/Zion-support/mock-api-generator) — https://ziontechgroup.com/mock-api-generator/
+- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch90-oct05.html
 
----
-© 2026 Zion Tech Group · commercial@ziontechgroup.com
+Contact: commercial@ziontechgroup.com · https://ziontechgroup.com
