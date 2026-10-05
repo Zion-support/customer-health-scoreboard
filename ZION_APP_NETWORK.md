@@ -1,11 +1,21 @@
-# 🌐 Zion AI App Network
+# 🌐 Zion App Network — Interlinks (Batch 85: Data Quality & Customer Success AI)
 
-Part of the **Zion AI App Network** — 770+ interlinked AI apps, tools and playbooks by [Zion Tech Group](https://ziontechgroup.com).
+This app is part of the free **Zion AI App Network** — 830+ interlinked AI apps, all free and online.
 
-- 🏠 Home: https://ziontechgroup.com
-- 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
-- 🐙 Hub: https://github.com/Zion-support/zion-app-network
-- 🌐 Live app: https://ziontechgroup.com/customer-health-scoreboard/
-- 🔗 Related: [Customer Health Scorer](https://ziontechgroup.com/customer-health-scorer/) · [Churn Signal Radar](https://ziontechgroup.com/churn-signal-radar/) · [Discovery](https://ziontechgroup.com/discovery/)
+- 🗂️ Master directory: https://ziontechgroup.com/zion-app-network/ · GitHub: https://github.com/Zion-support/zion-app-network
+- 🚀 Batch 85 showcase: https://ziontechgroup.com/zion-app-network/app-network-batch85-oct05.html
+- 🧭 Free AI Discovery: https://ziontechgroup.com/discovery/
+- 🏠 Homepage: https://ziontechgroup.com
 
-© 2026 Zion Tech Group.
+## Batch 85 sibling apps
+- [Churn Risk Radar](https://ziontechgroup.com/churn-risk-radar/)
+- [Customer Health Scoreboard](https://ziontechgroup.com/customer-health-scoreboard/)
+- [Data Quality Watchdog](https://ziontechgroup.com/data-quality-watchdog/)
+- [Data Drift Detector](https://ziontechgroup.com/data-drift-detector/)
+- [Data Pipeline Monitor](https://ziontechgroup.com/data-pipeline-monitor/)
+- [ETL Observability](https://ziontechgroup.com/etl-observability/)
+- [Customer 360 Builder](https://ziontechgroup.com/customer-360-builder/)
+- [NPS Analyzer AI](https://ziontechgroup.com/nps-analyzer-ai/)
+
+---
+© 2026 Zion Tech Group · commercial@ziontechgroup.com
